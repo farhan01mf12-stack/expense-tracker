@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+backend/database/*.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
